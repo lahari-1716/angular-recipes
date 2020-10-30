@@ -1,0 +1,19 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+
+}
+.clac-wrapper{
+  width: 400px;
+  align-items: center;
+  height: 600px;
+} 
+.row {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  
+}
